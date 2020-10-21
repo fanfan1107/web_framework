@@ -1,0 +1,18 @@
+INFO     python:my_log.py:32 -----所用用例之前的，setup---整个测试类只执行一次
+INFO     python:my_log.py:32 登录模块等待元素('id', 'username')可见
+INFO     python:my_log.py:32 登录模块查找('id', 'username')元素用了0
+INFO     python:my_log.py:32 查找元素('id', 'username')可见
+INFO     python:my_log.py:32 登录模块等待元素('id', 'password')可见
+INFO     python:my_log.py:32 登录模块查找('id', 'password')元素用了0
+INFO     python:my_log.py:32 查找元素('id', 'password')可见
+INFO     python:my_log.py:32 登录模块等待元素('xpath', '//input[@id="btn_login"]')可见
+INFO     python:my_log.py:32 登录模块查找('xpath', '//input[@id="btn_login"]')元素用了0
+INFO     python:my_log.py:32 查找元素('xpath', '//input[@id="btn_login"]')可见
+INFO     python:my_log.py:32 登录模块点击元素：('xpath', '//input[@id="btn_login"]')
+INFO     python:my_log.py:32 等待元素('xpath', '//div[@class="ant-message-custom-content ant-message-error"]/span')可见
+INFO     python:my_log.py:32 查找('xpath', '//div[@class="ant-message-custom-content ant-message-error"]/span')元素用了0
+INFO     python:my_log.py:32 查找元素('xpath', '//div[@class="ant-message-custom-content ant-message-error"]/span')可见
+INFO     python:my_log.py:32 获取的提示信息为用户不存在!
+INFO     python:my_log.py:32 等待元素('xpath', '//div[@class="ant-message-custom-content ant-message-error"]/span')可见
+INFO     python:my_log.py:32 查找('xpath', '//div[@class="ant-message-custom-content ant-message-error"]/span')元素用了0
+INFO     python:my_log.py:32 查找元素('xpath', '//div[@class="ant-message-custom-content ant-message-error"]/span')可见
